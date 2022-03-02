@@ -1,3 +1,6 @@
+# ILAN LICHA & AYMEN EL-AZHAR
+# IPI DIGITALENTS 03/2022
+
 function dumpPid {
         pid=$1
         batchtemp=$(mktemp -t XXXXXX.gdb) && \
