@@ -1,5 +1,6 @@
 # ILAN LICHA & AYMEN EL-AZHAR
 # IPI DIGITALENTS 03/2022
+#!/bin/bash
 
 function dumpPid {
         pid=$1
